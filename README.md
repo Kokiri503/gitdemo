@@ -126,6 +126,15 @@ if you expest the unexpested doesn't that make the unexpested expested?
 
 
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+
 
 
 
